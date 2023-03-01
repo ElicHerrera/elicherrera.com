@@ -1,3 +1,3 @@
 # elicherrera.com
 sitio en construcción
-graficos/ElicHerreraN_q.png
+![Book logo](graficos/ElicHerreraN_q.png)
